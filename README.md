@@ -2,6 +2,8 @@
 
 Простой и современный слайдер изображений на HTML, CSS и JavaScript.
 
+![slider-preview](https://github.com/user-attachments/assets/02a2950f-b659-4928-971e-d3db9965a8d0)
+
 ## Структура проекта
 
 - `index.html` — Главная страница слайдера.
